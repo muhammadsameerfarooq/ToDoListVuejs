@@ -1,0 +1,44 @@
+{
+  "hash": "2e3c2e54",
+  "browserHash": "728cda27",
+  "optimized": {
+    "axios": {
+      "src": "../../axios/index.js",
+      "file": "axios.js",
+      "fileHash": "2ac5f27e",
+      "needsInterop": false
+    },
+    "sweetalert2/dist/sweetalert2.js": {
+      "src": "../../sweetalert2/dist/sweetalert2.js",
+      "file": "sweetalert2_dist_sweetalert2__js.js",
+      "fileHash": "3d5861b6",
+      "needsInterop": true
+    },
+    "uid": {
+      "src": "../../uid/dist/index.mjs",
+      "file": "uid.js",
+      "fileHash": "0d9fb2c1",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "ef4d52c5",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "abd3dc68",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-3NMN3MUW": {
+      "file": "chunk-3NMN3MUW.js"
+    },
+    "chunk-RSJERJUL": {
+      "file": "chunk-RSJERJUL.js"
+    }
+  }
+}
